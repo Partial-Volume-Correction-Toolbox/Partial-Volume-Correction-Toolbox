@@ -8,5 +8,11 @@ To use the application, it is mandatory to have MATLAB and the appropriate licen
 
 # Installation
 
-In the APPS section located at the top of the MATLAB home screen, clicking 'Install App' will open the files on your computer. Select the file Partial Volume Correction Toolbox.mlappinstall for installation. Once completed, the toolbox will be available, and you will only need to click on the corresponding toolbox logo to start using it.
+Download the file 'Partial Volume Correction Toolbox.mlappinstall' located at the repository.
+
+In the APPS section located at the top of the MATLAB home screen, clicking 'Install App' will open the files on your computer. Select the file 'Partial Volume Correction Toolbox.mlappinstall' for installation. Once completed, the toolbox will be available, and you will only need to click on the corresponding toolbox logo to start using it.
+
+# Help
+
+This repository includes an information and help manual for understanding and effectively using the toolbox. The file, titled Partial Volume Correction Toolbox.pdf, is located within the repository.
 
